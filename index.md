@@ -1,3 +1,8 @@
+## Hello & Welcome!
+
+This page is soon to be the operational site of the Academic Commune.
+--- coming soon ---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/academicommune/academicommune.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
